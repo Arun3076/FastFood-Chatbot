@@ -1,0 +1,243 @@
+Query,Response,Intent
+Hi,"Hello! I’m Fast Food Chatbot, how can I assist you?",greet
+Hey there,"Hey! I’m Fast Food Chatbot, how can I assist you?",greet
+Hello,"Hi there! I’m Fast Food Chatbot, how can I assist you?",greet
+Good morning,"Good morning! I’m Fast Food Chatbot, how can I assist you?",greet
+Good afternoon,"Good afternoon! I’m Fast Food Chatbot, how can I assist you?",greet
+Good evening,"Good evening! I’m Fast Food Chatbot, how can I assist you?",greet
+Yo,"Yo! I’m Fast Food Chatbot, how can I assist you?",greet
+Hi there,"Hello! I’m Fast Food Chatbot, how can I assist you?",greet
+Hey,"Hey there! I’m Fast Food Chatbot, how can I assist you?",greet
+Hola,"Hola! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, how’s it going?","It’s going great! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hey, what’s up?","Not much, just here to help! I’m Fast Food Chatbot, how can I assist you?",greet
+Hello there,"Hi! I’m Fast Food Chatbot, how can I assist you?",greet
+Good day,"Good day to you! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, how are you?","I’m doing awesome, thanks! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hey, how’s it hanging?","Hanging tasty! I’m Fast Food Chatbot, how can I assist you?",greet
+Morning!,"Morning! I’m Fast Food Chatbot, how can I assist you?",greet
+Evening!,"Evening! I’m Fast Food Chatbot, how can I assist you?",greet
+What’s good?,"All our food’s good! I’m Fast Food Chatbot, how can I assist you?",greet
+Sup?,"Sup? I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, can you help me?","Sure can! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hey, you there?","Right here for you! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hello, anyone home?","Yup, I’m home! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, what’s cooking?","Burgers and fries! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hey, ready to help?","Always ready! I’m Fast Food Chatbot, how can I assist you?",greet
+Good to see you,"Great to see you too! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, I’m hungry","Let’s fix that! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hey, got food?","Plenty of food! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hello, I’m back","Welcome back! I’m Fast Food Chatbot, how can I assist you?",greet
+"Hi, let’s eat","Let’s get started! I’m Fast Food Chatbot, how can I assist you?",greet
+Show me the menu,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What's on the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Can you display the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Let me see the menu,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What food do you have?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Show the food options,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What's available to eat?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Give me the menu list,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian
+
+ - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Tell me about the menu,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What’s the food menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+List the menu items,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Can I see what’s on the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Show me what you serve,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What dishes do you offer?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Display the food menu,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What can I order?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Show me the full menu,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What’s on offer today?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Can you share the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+List your food items,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What’s the menu like?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Show me your dishes,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What food options are there?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Tell me the menu options,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What do you have to eat?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+"Show the menu, please","Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What’s available on the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Can you tell me the menu?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+What’s the food selection?,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+Give me your menu details,"Our menu: Vegetarian - Rice ($50), Noodles ($50), Manchurian ($50); Non-Vegetarian - Chicken Rice ($80), Chicken Noodles ($80), Chicken Manchurian ($80).",menu
+I need 2 veg noodles,Your order of 2 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Add 1 chicken rice,Your order of 1 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+Can I get 1 veg rice and 1 chicken noodles?,Your order of 1 veg rice and 1 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+I want 2 veggie Manchurian,Your order of 2 veg Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Order 1 chicken Manchurian and 1 veg noodles,Your order of 1 chicken Manchurian and 1 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Give me 3 veg rice,Your order of 3 veg rice is placed with bill {bill_function} and your ID is {id}.,add item
+I’d like 1 chicken rice and 2 veg noodles,Your order of 1 chicken rice and 2 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Can I have 2 veggie noodles and 1 chicken Manchurian?,Your order of 2 veg noodles and 1 chicken Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Add 1 veg Manchurian and 1 chicken rice,Your order of 1 veg Manchurian and 1 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+I need 2 vegetarian rice and 2 chicken noodles,Your order of 2 veg rice and 2 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Add two veg noodles and one chicken rice,Your order of 2 veg noodles and 1 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+I want 1 veggie rice,Your order of 1 veg rice is placed with bill {bill_function} and your ID is {id}.,add item
+Get me 1 chicken noodles and 3 veg Manchurian,Your order of 1 chicken noodles and 3 veg Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Place an order for 2 veg rice and 1 chicken Manchurian,Your order of 2 veg rice and 1 chicken Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Can you add 1 veggie noodles and 2 chicken rice?,Your order of 1 veg noodles and 2 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+I need 2 portions of veg Manchurian,Your order of 2 veg Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+"Two chicken noodles, please",Your order of 2 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+I’d like 1 veg rice and 1 chicken rice,Your order of 1 veg rice and 1 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+Order 3 veggie noodles,Your order of 3 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Can I get 1 chicken Manchurian?,Your order of 1 chicken Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Add 2 veg rice and 2 chicken noodles,Your order of 2 veg rice and 2 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+I want 1 veg noodles and 1 chicken rice,Your order of 1 veg noodles and 1 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+Give me two chicken Manchurian and one veg rice,Your order of 2 chicken Manchurian and 1 veg rice is placed with bill {bill_function} and your ID is {id}.,add item
+I need 1 veggie Manchurian and 2 chicken noodles,Your order of 1 veg Manchurian and 2 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Can you put 3 veg noodles on?,Your order of 3 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Include 1 chicken rice and 2 veg Manchurian,Your order of 1 chicken rice and 2 veg Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+I’d like 2 veg rice and 1 chicken noodles,Your order of 2 veg rice and 1 chicken noodles is placed with bill {bill_function} and your ID is {id}.,add item
+Add two chicken Manchurian and one veggie noodles,Your order of 2 chicken Manchurian and 1 veg noodles is placed with bill {bill_function} and your ID is {id}.,add item
+I want to order 1 veg rice and 3 chicken rice,Your order of 1 veg rice and 3 chicken rice is placed with bill {bill_function} and your ID is {id}.,add item
+Please add 2 vegetarian noodles and 1 chicken Manchurian,Your order of 2 veg noodles and 1 chicken Manchurian is placed with bill {bill_function} and your ID is {id}.,add item
+Remove 2 veg noodles from my order ID {id},2 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+Cancel 1 chicken rice for order ID {id},1 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take off 1 veg rice and 1 chicken noodles, ID {id}",1 veg rice and 1 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"I don’t want 2 veggie Manchurian, order ID {id}",2 veg Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Delete 1 chicken Manchurian and 1 veg noodles, ID {id}",1 chicken Manchurian and 1 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+Remove 3 veg rice from order ID {id},3 veg rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Cancel 1 chicken rice and 2 veg noodles, ID {id}",1 chicken rice and 2 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take out 2 veggie noodles and 1 chicken Manchurian, ID {id}",2 veg noodles and 1 chicken Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 1 veg Manchurian and 1 chicken rice, order ID {id}",1 veg Manchurian and 1 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Delete 2 vegetarian rice and 2 chicken noodles, ID {id}",2 veg rice and 2 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Cancel two veg noodles and one chicken rice, ID {id}",2 veg noodles and 1 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+Remove 1 veggie rice from order ID {id},1 veg rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take off 1 chicken noodles and 3 veg Manchurian, ID {id}",1 chicken noodles and 3 veg Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Delete 2 veg rice and 1 chicken Manchurian, order ID {id}",2 veg rice and 1 chicken Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 1 veggie noodles and 2 chicken rice, ID {id}",1 veg noodles and 2 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Cancel 2 portions of veg Manchurian, ID {id}",2 veg Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take out two chicken noodles, order ID {id}",2 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 1 veg rice and 1 chicken rice, ID {id}",1 veg rice and 1 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+Delete 3 veggie noodles from order ID {id},3 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Cancel 1 chicken Manchurian, order ID {id}",1 chicken Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 2 veg rice and 2 chicken noodles, ID {id}",2 veg rice and 2 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take off 1 veg noodles and 1 chicken rice, ID {id}",1 veg noodles and 1 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Delete two chicken Manchurian and one veg rice, ID {id}",2 chicken Manchurian and 1 veg rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 1 veggie Manchurian and 2 chicken noodles, ID {id}",1 veg Manchurian and 2 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+Cancel 3 veg noodles from order ID {id},3 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Take out 1 chicken rice and 2 veg Manchurian, ID {id}",1 chicken rice and 2 veg Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 2 veg rice and 1 chicken noodles, order ID {id}",2 veg rice and 1 chicken noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Delete two chicken Manchurian and one veggie noodles, ID {id}",2 chicken Manchurian and 1 veg noodles removed from order ID {id}. New bill: {bill_function}.,remove item
+"Cancel 1 veg rice and 3 chicken rice, ID {id}",1 veg rice and 3 chicken rice removed from order ID {id}. New bill: {bill_function}.,remove item
+"Remove 2 vegetarian noodles and 1 chicken Manchurian, ID {id}",2 veg noodles and 1 chicken Manchurian removed from order ID {id}. New bill: {bill_function}.,remove item
+What’s the weather today?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I fix my car?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you solve 2+2?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Tell me about football,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the time now?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Who won the last election?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How’s the stock market?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you book a flight?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s a good movie to watch?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Tell me a joke,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I learn coding?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the capital of France?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you help with homework?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the latest news?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I repair my phone?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the score of the game?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you play music?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s my horoscope?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I bake a cake?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the best car to buy?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you tell me about history?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the price of gold?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I get to the mall?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s a good workout plan?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you help with math?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the meaning of life?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+How do I plant a tree?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s trending on social media?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Can you book a hotel?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+What’s the best phone to buy?,"Sorry, I don’t understand you. I can assist with food orders and billing.",unrelated
+Confirm my order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Please confirm order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Can you confirm my order ID {id}?,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+I want to confirm order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Finalize my order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm order number {id} for me,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Please verify order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Is order ID {id} good to go?,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm my food order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Go ahead with order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Can I confirm order ID {id}?,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Approve my order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm 2 veg noodles for ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Verify my order ID {id} please,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm my chicken rice order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Finalize order ID {id} with veg rice,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm order ID {id} with chicken noodles,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Please confirm my order number {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Can you verify order ID {id}?,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm my order with ID {id} now,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Lock in order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+"Confirm 1 veg Manchurian, ID {id}",Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Approve order ID {id} for me,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+"Confirm my 2 chicken rice, ID {id}",Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Verify order ID {id} for veg noodles,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Confirm order ID {id} with 1 chicken Manchurian,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Please finalize my order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Can I approve order ID {id}?,Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+"Confirm my order of 3 veg rice, ID {id}",Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Go ahead and confirm order ID {id},Order ID {id} confirmed. Final bill: {bill_function}.,confirm order
+Check status of order ID {id},Order ID {id} is being prepared.,check order status
+What’s the status of my order ID {id}?,Order ID {id} is ready for pickup.,check order status
+Can you tell me about order ID {id}?,Order ID {id} is cooking.,check order status
+How’s my order ID {id} doing?,Order ID {id} is being prepared.,check order status
+Update on order ID {id}?,Order ID {id} is ready for pickup.,check order status
+Check my order ID {id} status,Order ID {id} is cooking.,check order status
+What’s up with order ID {id}?,Order ID {id} is being prepared.,check order status
+Is order ID {id} ready?,Order ID {id} is ready for pickup.,check order status
+Status of my food order ID {id}?,Order ID {id} is cooking.,check order status
+Where’s my order ID {id} at?,Order ID {id} is being prepared.,check order status
+Check on order ID {id} please,Order ID {id} is ready for pickup.,check order status
+How’s order ID {id} coming along?,Order ID {id} is cooking.,check order status
+Tell me about my order ID {id},Order ID {id} is being prepared.,check order status
+What’s the progress on order ID {id}?,Order ID {id} is ready for pickup.,check order status
+Check status for order ID {id} with veg noodles,Order ID {id} is cooking.,check order status
+Is my order ID {id} done yet?,Order ID {id} is ready for pickup.,check order status
+Update me on order ID {id} status,Order ID {id} is being prepared.,check order status
+How’s my chicken rice order ID {id}?,Order ID {id} is cooking.,check order status
+Check my order ID {id} with veg rice,Order ID {id} is ready for pickup.,check order status
+What’s the status of order number {id}?,Order ID {id} is being prepared.,check order status
+Is order ID {id} ready to pick up?,Order ID {id} is ready for pickup.,check order status
+Tell me the status of ID {id},Order ID {id} is cooking.,check order status
+How’s order ID {id} going?,Order ID {id} is being prepared.,check order status
+Check my 2 veg noodles order ID {id},Order ID {id} is ready for pickup.,check order status
+What’s happening with order ID {id}?,Order ID {id} is cooking.,check order status
+Status update for order ID {id} please,Order ID {id} is being prepared.,check order status
+Is my chicken Manchurian order ID {id} ready?,Order ID {id} is ready for pickup.,check order status
+Check on my order ID {id} with veg Manchurian,Order ID {id} is cooking.,check order status
+How’s my order ID {id} progressing?,Order ID {id} is being prepared.,check order status
+Tell me if order ID {id} is ready,Order ID {id} is ready for pickup.,check order status
+Bye,Goodbye! Come back soon for more tasty food!,end greeting
+Thank you,You're welcome! Visit us again soon!,end greeting
+See you later,See you! We're here for your next order!,end greeting
+Goodbye,Thanks for stopping by! Come back anytime!,end greeting
+Thanks,Glad to help! See you next time!,end greeting
+"Ok, bye",Bye! Looking forward to your next visit!,end greeting
+I'm done,Thanks for chatting! Come back for more food!,end greeting
+Take care,You too! Visit us again soon!,end greeting
+Catch you later,Catch you next time! Thanks for stopping by!,end greeting
+Thanks a lot,No problem! Come back for more delicious meals!,end greeting
+"Alright, goodbye",Goodbye! We're here for your next order!,end greeting
+See ya,See ya soon! Thanks for choosing us!,end greeting
+That’s all,All done? Come back anytime for more food!,end greeting
+Thank you so much,You're very welcome! See you again soon!,end greeting
+Later,Later! We’ll be here for your next craving!,end greeting
+I’m off,Safe travels! Come back for more tasty bites!,end greeting
+Thanks for the help,Happy to assist! Visit us again soon!,end greeting
+Bye for now,Bye! We’re ready for your next order!,end greeting
+Done here,All set? Come back for more delicious food!,end greeting
+Have a good day,You too! Thanks for stopping by!,end greeting
+"Thanks, bye",You're welcome! See you next time!,end greeting
+"I’m good, bye",Glad to hear! Come back soon!,end greeting
+"Ok, thanks",No worries! Visit us again for more food!,end greeting
+See you next time,Looking forward to it! Thanks for coming!,end greeting
+"That’s it, bye",Bye! We’re here for your next meal!,end greeting
+"Thanks, I’m done",You're welcome! Come back anytime!,end greeting
+"Goodbye, thanks",Thanks for ordering! See you again soon!,end greeting
+"All good, bye",Great! Come back for more tasty food!,end greeting
+"I’m leaving, thanks",Safe travels! We’ll see you next time!,end greeting
+"Bye, thank you",You're welcome! Come back for more soon!,end greeting

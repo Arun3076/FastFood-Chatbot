@@ -1,0 +1,37 @@
+Below is a simple guide to interact with your fast food chatbot, tailored for the hospitality industry. This guide is designed to help users (e.g., customers or your tutor) understand how to engage with the chatbot effectively, covering the key intents you’ve defined (greet, menu, add item, remove item, confirm order, check order status, end greeting, and unrelated queries). It’s concise, user-friendly, and aligned with your project to impress your tutor, within 200 words.
+
+---
+
+### Guide to Chatting with Your Fast Food Chatbot
+
+Welcome to the Fast Food Chatbot! Follow these simple steps to interact:
+
+1. **Start the Conversation**: Say "Hi," "Hello," or "Hey" to begin. The chatbot will greet you and offer assistance.
+   - Example: "Hi" → "Hello! I’m Fast Food Chatbot, how can I assist you?"
+
+2. **View the Menu**: Ask for the menu with phrases like "Show me the menu" or "What’s available?"
+   - Example: "What’s on the menu?" → Lists vegetarian (rice, noodles, Manchurian, $50 each) and non-vegetarian (chicken rice, chicken noodles, chicken Manchurian, $80 each).
+
+3. **Place an Order**: Request items like "I need 2 veg noodles" or "Add 1 chicken rice."
+   - Example: "Add 2 veg noodles" → "Your order of 2 veg noodles is placed with bill {bill_function} and your ID is {id}."
+
+4. **Remove Items**: Cancel items with the order ID, e.g., "Remove 1 veg rice, ID {id}."
+   - Example: "Cancel 1 chicken rice, ID {id}" → "1 chicken rice removed from order ID {id}. New bill: {bill_function}."
+
+5. **Confirm Order**: Finalize with "Confirm order ID {id}."
+   - Example: "Confirm my order ID {id}" → "Order ID {id} confirmed. Final bill: {bill_function}."
+
+6. **Check Status**: Ask about order progress, e.g., "Status of order ID {id}?"
+   - Example: "Is order ID {id} ready?" → "Order ID {id} is ready for pickup."
+
+7. **End Conversation**: Say "Bye," "Thanks," or "Goodbye" to close.
+   - Example: "Thanks, bye" → "You're welcome! Come back soon!"
+
+8. **Unrelated Queries**: For non-food questions (e.g., "What’s the weather?"), the chatbot will redirect to food orders.
+   - Example: "What’s the time?" → "Sorry, I don’t understand you. I can assist with food orders and billing."
+
+**Tips**: Use clear phrases, include order IDs for modifications, and expect quick, food-focused responses. Enjoy your meal!
+
+---
+
+This guide ensures users can navigate the chatbot’s functionalities, showcasing its capabilities to your tutor. Let me know if you need further datasets or implementation help!
